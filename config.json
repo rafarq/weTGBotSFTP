@@ -1,0 +1,10 @@
+{
+    "telegram_token": "Telegram BOT TOKEN",
+    "sftp": {
+        "host": "your.sftp.server",
+        "port": 22,
+        "username": "your_username",
+        "password": "your_password",
+        "target_folder": "/path/to/target/folder"
+    }
+}
